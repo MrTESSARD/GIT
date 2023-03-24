@@ -1,0 +1,19 @@
+[33mcommit 017d3fa1f686c8a0912cbfa49591bae7aadcc702[m
+Author: MrTESSARD <dimitri@tessard.pro>
+Date:   Fri Mar 24 12:07:59 2023 +0100
+
+    Ajout du top banner
+
+[1mdiff --git a/hello.html b/hello.html[m
+[1mindex a8ead1a..7806d20 100644[m
+[1m--- a/hello.html[m
+[1m+++ b/hello.html[m
+[36m@@ -13,7 +13,7 @@[m
+ 	<body>[m
+ [m
+ 		<!-- TITRE -->[m
+[31m-		<div>[m
+[32m+[m		[32m<div id="top-banner">[m
+ 			Bienvenue dans cette formation GIT ![m
+ 		</div>[m
+ 		[m
